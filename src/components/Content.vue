@@ -17,7 +17,7 @@
         <div class="row">
           <div class="col">
             <div class="hero-content animate__animated animate__fadeInRight">
-              <h1>O futuro começa agora</h1>
+              <h1>O futuro começa hoje</h1>
               <p>
                 Lorem ipsum dolor sit amet consectetur, adipisicing elit.
                 Tempore dicta odit labore repudiandae? Facilis et aspernatur
@@ -185,7 +185,21 @@
 
 <script>
 export default {
-  name: 'contentTemplate'
+  name: 'contentTemplate',
+  mounted() {
+    jQuery('.js--sticky-nav').waypoint(
+        function (direction) {
+          if (direction == 'down') {
+            $('nav').addClass('sticky');
+          } else {
+            $('nav').removeClass('sticky');
+          }
+        },
+        {
+          offset: '25%',
+        }
+      );
+  }
 }
 </script>
 
