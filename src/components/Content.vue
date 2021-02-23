@@ -185,21 +185,7 @@
 
 <script>
 export default {
-  name: 'contentTemplate',
-  mounted() {
-    jQuery('.js--sticky-nav').waypoint(
-        function (direction) {
-          if (direction == 'down') {
-            $('nav').addClass('sticky');
-          } else {
-            $('nav').removeClass('sticky');
-          }
-        },
-        {
-          offset: '25%',
-        }
-      );
-  }
+  name: 'contentTemplate'
 }
 </script>
 
