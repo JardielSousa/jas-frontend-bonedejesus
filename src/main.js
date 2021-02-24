@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import App from './App.vue'
 import jQuery from "jquery/dist/jquery.min.js";
-import 'bootstrap/dist/css/bootstrap.css'
+// import 'bootstrap/dist/css/bootstrap.css'
 
 global.jQuery = jQuery;
 var $ = global.jQuery;
