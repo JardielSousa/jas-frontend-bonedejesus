@@ -31,8 +31,8 @@
     <section class="cs-section-one js--sticky-nav">
       <div class="container">
         <div class="row">
-          <div class="col-md-2">
-            
+          <div class="col-md-2" style="font-size: 4em; color: #ffc938">
+            <i class="fas fa-hotel"></i>
           </div>
           <div class="col-md-10">
             <div class="cs-section-title">
@@ -45,7 +45,7 @@
               </p>
               <p>
                 Somos uma empresa especializada em oferecer serviços de estética automotiva 
-                para carros por meio da lavagem ecológica, que é uma tipo de limpeza que 
+                para carros por meio da lavagem ecológica, que é um tipo de limpeza que 
                 quase não utiliza água. 
                 Para isso, fazemos uso de produtos biodegradáveis, que, além de diminuírem 
                 o consumo de água, não agridem o meio ambiente.
@@ -58,8 +58,8 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-md-2">
-            
+          <div class="col-md-2" style="font-size: 4em; color: #ffc938">
+            <i class="fas fa-asterisk"></i>
           </div>
           <div class="col-md-10">
             <div class="cs-section-title">
@@ -81,7 +81,135 @@
         </div>
       </div>
     </section>
-		
+		<!--Location sections-->
+    <section class="locate-section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-2" style="font-size: 4em; color: #ffc938">
+            <i class="fas fa-cogs"></i>
+          </div>
+          <div class="col">
+            <h3>Serviços</h3>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-2 d-flex"></div>
+          <div class="col-md-5 d-flex">
+            <div class="locate-icon" style="font-size: 1.5em; color: #ffc938">
+              <i class="fas fa-cog"></i>
+            </div>
+            <div class="locate-content">
+              <div class="locate-info">
+                <h4>Polimento cristalizado</h4>
+                <p>
+                  É um método de manutenção de pintura que consiste na aplicação de uma 
+                  espécie de resina que tem a função de formar uma camada protetora sobre a 
+                  pintura do carro, evitando riscos por um determinado período
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-5 d-flex">
+            <div class="locate-icon" style="font-size: 1.5em; color: #ffc938">
+              <i class="fas fa-cog"></i>
+            </div>
+            <div class="locate-content">
+              <div class="locate-info">
+                <h4>Diamantação de pintura</h4>
+                <p>
+                  Consiste na plastificação e impermeabilização da pintura, 
+                  tornando o carro mais brilhante e tem duração de cerca de dois anos
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-2 d-flex"></div>
+          <div class="col-md-5 d-flex">
+            <div class="locate-icon" style="font-size: 1.5em; color: #ffc938">
+              <i class="fas fa-cog"></i>
+            </div>
+            <div class="locate-content">
+              <div class="locate-info">
+                <h4>Espelhamento automotivo</h4>
+                <p>
+                  Consiste em deixar a pintura do carro brilhando e 
+                  diminuir ao máximo a visibilidade de imperfeições e afins
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-5 d-flex">
+            <div class="locate-icon" style="font-size: 1.5em; color: #ffc938">
+              <i class="fas fa-cog"></i>
+            </div>
+            <div class="locate-content">
+              <div class="locate-info">
+                <h4>Vitrificação de pintura</h4>
+                <p>
+                  Consiste na aplicação de um produto químico popularmente 
+                  conhecido como vitrificador de pintura ou vitrificador 9H, 
+                  utilizado para garantir o nano-revestimento e proteção de maior rigidez.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-2 d-flex"></div>
+          <div class="col-md-5 d-flex">
+            <div class="locate-icon" style="font-size: 1.5em; color: #ffc938">
+              <i class="fas fa-cog"></i>
+            </div>
+            <div class="locate-content">
+              <div class="locate-info">
+                <h4>Higienização interna</h4>
+                <p>
+                   Remove poeira, bactérias, fungos, ácaros e sujeiras profundas, 
+                   trazendo benefícios à saúde dos ocupantes, além de tirar manchas 
+                   e odores ruins de dentro do veículo
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-5 d-flex">
+            <div class="locate-icon" style="font-size: 1.5em; color: #ffc938">
+              <i class="fas fa-cog"></i>
+            </div>
+            <div class="locate-content">
+              <div class="locate-info">
+                <h4>Limpeza de ar condicionado</h4>
+                <p>
+                  Pode evitar cheiros desagradáveis, o acúmulo de sujeira e a 
+                  proliferação de germes nocivos à saúde. Doenças respiratórias e 
+                  crises alérgicas são algumas das reações que a poluição e a sujeira 
+                  presentes no aparelho podem causar
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-2 d-flex"></div>
+          <div class="col-md-5 d-flex">
+            <div class="locate-icon" style="font-size: 1.5em; color: #ffc938">
+              <i class="fas fa-cog"></i>
+            </div>
+            <div class="locate-content">
+              <div class="locate-info">
+                <h4>Descontaminação de banco de couro e a hidratação dos bancos de couro</h4>
+                <p>
+                   Preserva a condição original deixando-os com aparência de novo, 
+                   além de evitar o ressecamento, trincas e envelhecimento precoce
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-5 d-flex"></div>
+        </div>
+      </div>
+    </section>
 		<!--hfb or home footer before-->
     <section class="home-footer-before">
       <div class="container">
